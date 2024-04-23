@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains the code for a Note Management App, a project I used to practice and improve my skills in Next.js.
-
+![Example Image](https://github.com/myaqut/Note-Management-App/blob/a75e3c4305e81343c3198acaa8b551fec1286033/Screenshot%20from%202024-04-23%2011-50-16.png?raw=true)
 ## Features
 
 - **Create Notes:** Users can create new notes with a title and content.
